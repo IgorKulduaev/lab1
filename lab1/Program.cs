@@ -12,8 +12,7 @@
 //double y = double.Parse(Console.ReadLine());
 //Console.WriteLine($"T={(Math.Sqrt(x + b - a) + (Math.Log(y))) / Math.Atan(b + a)}");
 
-//Лабораторная работа 2
-//Программирование линейных логарифмов
+//Программирование линейных алгарифмов
 //Вариант:17
 
 //Console.Write("введите x");
